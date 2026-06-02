@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CN API Tester</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script defer src="main.js"></script>
+  </head>
+
+  <body>
+    <header class="hero">
+      <div class="container">
+        <span class="brand-badge"> CN Interactive Systems </span>
+
+        <h1>API Tester</h1>
+
+        <p>Test and inspect REST APIs instantly.</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="card">
+        <div class="request-bar">
+          <select id="method" class="method-select">
+            <option>GET</option>
+            <option>POST</option>
+            <option>PUT</option>
+            <option>DELETE</option>
+          </select>
+
+          <input
+            id="urlInput"
+            type="text"
+            placeholder="https://api.example.com"
+          />
+        </div>
+
+        <textarea id="bodyInput" placeholder="Request Body (JSON)"></textarea>
+
+        <div class="action-bar">
+          <button id="sendBtn">Send Request</button>
+
+          <button id="exampleBtn">Load Example</button>
+
+          <button id="clearBtn">Clear</button>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="card-header">
+          <h2>Response</h2>
+
+          <button id="copyBtn">Copy</button>
+        </div>
+
+        <pre id="responseOutput">
+Waiting...
+        </pre>
+      </section>
+
+      <section class="stats-grid">
+        <div class="card">
+          <h3>Status</h3>
+          <p id="statusOutput" class="status-badge">-</p>
+        </div>
+
+        <div class="card">
+          <h3>Response Time</h3>
+          <p id="timeOutput">-</p>
+        </div>
+
+        <div class="card">
+          <h3>Size</h3>
+          <p id="sizeOutput">-</p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
