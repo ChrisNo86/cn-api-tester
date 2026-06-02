@@ -2,30 +2,117 @@ CN Interactive Systems License v1.0
 
 Copyright (c) 2026 CN Interactive Systems
 
-All rights reserved.
+All Rights Reserved.
 
-Permission is granted to view, download and use this software for personal, educational and non-commercial purposes.
+──────────────────────────────────────────────
 
-The following restrictions apply:
+1. PERMITTED USE
 
-1. The software may not be sold, sublicensed, redistributed for profit or incorporated into any commercial product without prior written permission from CN Interactive Systems.
+Permission is granted to view, download, study and use this software for personal, educational and non-commercial purposes.
 
-2. Any commercial use, monetization, licensing, distribution, resale or profit-generating activity involving this software requires a separate written agreement with CN Interactive Systems and may be subject to revenue sharing or licensing fees.
+Users may modify the software for personal use, provided that all copyright notices, attribution statements and license information remain intact and visible.
 
-3. The CN Interactive Systems name, logo, branding, trademarks, visual identity, documentation and associated assets remain the exclusive property of CN Interactive Systems and may not be copied, modified, removed, replaced or used without prior written permission.
+──────────────────────────────────────────────
 
-4. All copyright notices, attribution statements and license information must remain visible and intact in all copies, forks, modifications and distributions of the software.
+2. RESTRICTIONS
 
-5. Modified versions of this software must clearly indicate that changes have been made and may not imply endorsement by CN Interactive Systems.
+Without prior written permission from CN Interactive Systems, you may NOT:
 
-6. The software is provided "AS IS", without warranty of any kind, express or implied. CN Interactive Systems shall not be liable for any damages arising from the use of this software.
+- Sell this software.
+- License this software.
+- Redistribute this software for commercial purposes.
+- Incorporate this software into a commercial product or service.
+- Offer this software as a paid service.
+- Monetize this software in any form.
+- Use this software for revenue-generating activities.
+- Remove, alter or obscure copyright notices.
+- Remove, alter or replace CN Interactive Systems branding.
 
-For commercial licensing, partnership opportunities or redistribution rights, please contact:
+──────────────────────────────────────────────
+
+3. COMMERCIAL USE
+
+Any commercial use, distribution, licensing, resale, monetization, white-label deployment, SaaS offering, consulting use, enterprise integration or profit-generating activity involving this software requires prior written approval from CN Interactive Systems.
+
+Commercial licensing agreements may include licensing fees, royalties, revenue sharing arrangements or other contractual obligations determined by CN Interactive Systems.
+
+──────────────────────────────────────────────
+
+4. BRANDING AND INTELLECTUAL PROPERTY
+
+The following remain the exclusive property of CN Interactive Systems:
+
+- Name
+- Logo
+- Branding
+- Visual identity
+- Design elements
+- Documentation
+- Associated assets
+
+These elements may not be copied, reproduced, modified, distributed or used without prior written permission.
+
+Use of CN Interactive Systems branding for marketing, advertising, promotion, sponsorships or commercial activities is strictly prohibited without written authorization.
+
+──────────────────────────────────────────────
+
+5. COPYRIGHT NOTICE
+
+All copies, forks, modified versions and redistributions of this software must retain:
+
+Copyright (c) 2026 CN Interactive Systems
+
+and this license document in a visible and accessible location.
+
+──────────────────────────────────────────────
+
+6. MODIFIED VERSIONS
+
+Modified versions must clearly indicate that changes have been made.
+
+Modified versions may not imply endorsement, sponsorship or affiliation with CN Interactive Systems unless explicitly authorized in writing.
+
+──────────────────────────────────────────────
+
+7. DISCLAIMER OF WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY OR PERFORMANCE.
+
+──────────────────────────────────────────────
+
+8. LIMITATION OF LIABILITY
+
+THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE INSTALLATION, USE, MODIFICATION OR DISTRIBUTION OF THIS SOFTWARE.
+
+IN NO EVENT SHALL CN INTERACTIVE SYSTEMS, ITS OWNERS, DEVELOPERS, CONTRIBUTORS OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+- LOSS OF DATA
+- LOSS OF PROFITS
+- LOSS OF REVENUE
+- LOSS OF BUSINESS OPPORTUNITIES
+- SERVICE INTERRUPTIONS
+- SECURITY INCIDENTS
+- HARDWARE OR SOFTWARE DAMAGE
+- LEGAL OR REGULATORY CONSEQUENCES
+
+ARISING FROM THE USE OF OR INABILITY TO USE THIS SOFTWARE.
+
+USE OF THIS SOFTWARE IS ENTIRELY AT THE USER'S OWN RISK.
+
+──────────────────────────────────────────────
+
+9. CONTACT
+
+For commercial licensing, partnership opportunities or usage permissions:
 
 Website:
 https://christian-noack.com
 
 Email:
-admin@christian-noack.com
+admin@christian-noack.com(mailto:admin@christian-noack.com)
 
-Developed and maintained by Christian Noack.
+──────────────────────────────────────────────
+
+CN Interactive Systems License v1.0
+© 2026 CN Interactive Systems
+All Rights Reserved.
